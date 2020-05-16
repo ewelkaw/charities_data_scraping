@@ -1,5 +1,5 @@
 # charities_data_scraping
-Script to scrap data from https://beta.charitycommission.gov.uk/charity-search/?pageNumber=1 and save them in postgres.
+Training script to scrap data and save them in postgres.
 
 0. Prepare venv for project and install requirements:
 ```bash
