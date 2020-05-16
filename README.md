@@ -24,6 +24,6 @@ $ ./loading_data_to_db.sh charity
 4. Profit!
 
 
-IMPORTANT ASSUMPTIONS
+### IMPORTANT ASSUMPTIONS
 1. Everything is in one table because my task was to scrap data not to plan the database structure, but definitely there is a place for relational database
 2. Some constants are taken from website because mostly scraping is one time operation so it need to be done effectively (here we don't know anything about checking if there is new data incoming) 
